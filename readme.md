@@ -4,5 +4,5 @@ Make sure we have Dropbox account, if not, make it one. visit https://www.dropbo
 
 ![Alt text](https://github.com/remote-software-dev/laravel-dropbox-sample/blob/master/public/image1.PNG)
 ![Alt text](https://github.com/remote-software-dev/laravel-dropbox-sample/blob/master/public/image2.PNG)
-
+Then hit create button
 #### 2. 
