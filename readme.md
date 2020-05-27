@@ -92,6 +92,10 @@ return [
 ];
 
 ````
+on the `.env` file, give the generated token value for DROPBOX_TOKEN  
+- To get the installed package recognized by our application, we need to create service provider for it by issuing command
+`php artisan make:provider DropboxServiceProvider` 
+- jhdskja
 
 #### 4. 
 #### 5. sss
