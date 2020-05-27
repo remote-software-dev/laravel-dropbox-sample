@@ -12,7 +12,8 @@ Options:<br/>
 - -c for creating a new controller for the model
 - -r for being a resource controller 
 
-#### 3. Installation of required packages
+#### 3. Installation of required package
+Package we rely on is spatie/flysystem-dropbox, issue `composer require spatie/flysystem-dropbox` to install the package
 #### 4. 
 #### 5. sss
 #### 6. sss
